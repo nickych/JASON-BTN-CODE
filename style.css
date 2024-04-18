@@ -24,6 +24,7 @@ body {
 }
 
 .js:hover {
+    
     box-shadow: 40px;
     padding: 15px 30px;
     background-color: aqua;
